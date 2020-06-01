@@ -15,7 +15,7 @@ public class Student {
     private String numOfhours;
 
     /**
-     * Get the value of name
+     * Get the value of name Mehak
      *
      * @return the value of name
      */
